@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SistemaFaculdade.DataTransfer/1.0.0": {
+        "dependencies": {
+          "SistemaFaculdade.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SistemaFaculdade.DataTransfer.dll": {}
+        }
+      },
+      "SistemaFaculdade.Dominio/1.0.0": {
+        "runtime": {
+          "SistemaFaculdade.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaFaculdade.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaFaculdade.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

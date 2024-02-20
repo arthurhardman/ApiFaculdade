@@ -1,0 +1,15 @@
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\bin\Debug\net6.0\SistemaFaculdade.DataTransfer.deps.json
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\bin\Debug\net6.0\SistemaFaculdade.DataTransfer.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\bin\Debug\net6.0\SistemaFaculdade.DataTransfer.pdb
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.AssemblyInfo.cs
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\refint\SistemaFaculdade.DataTransfer.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.pdb
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\ref\SistemaFaculdade.DataTransfer.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\bin\Debug\net6.0\SistemaFaculdade.Dominio.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\bin\Debug\net6.0\SistemaFaculdade.Dominio.pdb
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.DataTransfer\obj\Debug\net6.0\SistemaFaculdade.DataTransfer.csproj.CopyComplete

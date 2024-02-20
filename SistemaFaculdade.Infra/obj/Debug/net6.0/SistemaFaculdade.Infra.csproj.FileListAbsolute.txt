@@ -1,0 +1,15 @@
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\bin\Debug\net6.0\SistemaFaculdade.Infra.deps.json
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\bin\Debug\net6.0\SistemaFaculdade.Infra.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\bin\Debug\net6.0\SistemaFaculdade.Infra.pdb
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\bin\Debug\net6.0\SistemaFaculdade.Dominio.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\bin\Debug\net6.0\SistemaFaculdade.Dominio.pdb
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.csproj.AssemblyReference.cache
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.AssemblyInfoInputs.cache
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.AssemblyInfo.cs
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.csproj.CoreCompileInputs.cache
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.csproj.CopyComplete
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\refint\SistemaFaculdade.Infra.dll
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\SistemaFaculdade.Infra.pdb
+C:\Users\arthur.paula\Faculdade\SistemaFaculdade\SistemaFaculdade.Infra\obj\Debug\net6.0\ref\SistemaFaculdade.Infra.dll
