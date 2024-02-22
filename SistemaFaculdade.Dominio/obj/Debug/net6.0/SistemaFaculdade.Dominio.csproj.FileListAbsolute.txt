@@ -22,3 +22,15 @@ c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade - Github\Sist
 c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade - Github\SistemaFaculdade.Dominio\obj\Debug\net6.0\refint\SistemaFaculdade.Dominio.dll
 c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade - Github\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.pdb
 c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade - Github\SistemaFaculdade.Dominio\obj\Debug\net6.0\ref\SistemaFaculdade.Dominio.dll
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\bin\Debug\net6.0\SistemaFaculdade.Dominio.deps.json
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\bin\Debug\net6.0\SistemaFaculdade.Dominio.dll
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\bin\Debug\net6.0\SistemaFaculdade.Dominio.pdb
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.csproj.AssemblyReference.cache
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.AssemblyInfoInputs.cache
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.AssemblyInfo.cs
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.csproj.CoreCompileInputs.cache
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.dll
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\refint\SistemaFaculdade.Dominio.dll
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\SistemaFaculdade.Dominio.pdb
+c:\Users\arthur.paula\OneDrive - AUTOGLASS\Documentos\ApiFaculdade\SistemaFaculdade.Dominio\obj\Debug\net6.0\ref\SistemaFaculdade.Dominio.dll

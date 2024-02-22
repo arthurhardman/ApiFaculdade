@@ -16,6 +16,11 @@ public class ProfessorController : ControllerBase
         this.professorAppServico = professorAppServico;
     }
 
+    /// <summary>
+    /// Insere um professor
+    /// </summary>
+    /// <param name="professorInserirRequest"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<ProfessorResponse> Inserir(ProfessorInserirRequest professorInserirRequest)
     {
@@ -23,6 +28,11 @@ public class ProfessorController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera um professor por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<ProfessorResponse> Recuperar(int id)
     {
@@ -30,6 +40,11 @@ public class ProfessorController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Atualiza um professor
+    /// </summary>
+    /// <param name="professorAlterarRequest"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<ProfessorResponse> Alterar(ProfessorAlterarRequest professorAlterarRequest)
     {
@@ -37,6 +52,11 @@ public class ProfessorController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Deleta um professor
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpDelete("{id}")]
     public ActionResult Deletar(int id)
     {
@@ -45,6 +65,11 @@ public class ProfessorController : ControllerBase
         return Ok();
     }
 
+    /// <summary>
+    /// Recupera uma lista de professores
+    /// </summary>
+    /// <param name="professorListarRequest"></param>
+    /// <returns></returns>
     [HttpGet]
     public ActionResult<IList<ProfessorResponse>> Listar([FromQuery] ProfessorListarRequest professorListarRequest)
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj": {}
+    "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj": {
+    "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj",
         "projectName": "SistemaFaculdade.Api",
-        "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj",
+        "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj",
         "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Api\\obj\\",
+        "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,17 +29,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj"
               },
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj"
               },
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
               },
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj": {
+    "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj",
         "projectName": "SistemaFaculdade.Aplicacao",
-        "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj",
+        "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Aplicacao\\SistemaFaculdade.Aplicacao.csproj",
         "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Aplicacao\\obj\\",
+        "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,14 +122,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj"
               },
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
               },
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj": {
+    "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj",
         "projectName": "SistemaFaculdade.DataTransfer",
-        "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj",
+        "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\SistemaFaculdade.DataTransfer.csproj",
         "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.DataTransfer\\obj\\",
+        "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.DataTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -193,8 +193,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+    "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj",
         "projectName": "SistemaFaculdade.Dominio",
-        "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj",
+        "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj",
         "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -282,14 +282,14 @@
         }
       }
     },
-    "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj": {
+    "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
         "projectName": "SistemaFaculdade.Infra",
-        "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
+        "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
         "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Infra\\obj\\",
+        "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -307,8 +307,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
-                "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
+              "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+                "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
               }
             }
           }

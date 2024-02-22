@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZD4p+orwdD89hs/N5KR13xioDALzDAVid44+r3Hz5EQCuWjt3wIRwBtxRL9ePr9mLTs1LkdqG8KTK1bDM5vnsQ==",
+  "dgSpecHash": "Xm+1hwLtRbwkGp3qRO1rVQOIDEyIEfLY3Ij/tz36QYWY9/dSsdnz19NVCe2OTII6FhoAbxOrV4OOLppqqNq8yw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio.Testes\\SistemaFaculdade.Dominio.Testes.csproj",
+  "projectFilePath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio.Testes\\SistemaFaculdade.Dominio.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthur.paula\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\arthur.paula\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

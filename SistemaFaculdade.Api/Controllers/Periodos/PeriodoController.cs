@@ -16,6 +16,11 @@ public class PeriodoController : ControllerBase
         this.periodoAppServico = periodoAppServico;
     }
 
+    /// <summary>
+    /// Insere um periodo
+    /// </summary>
+    /// <param name="periodoInserirRequest"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<PeriodosResponse> Inserir(PeriodosInserirRequest periodoInserirRequest)
     {
@@ -23,6 +28,11 @@ public class PeriodoController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera um periodo por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<PeriodosResponse> Recuperar(int id)
     {
@@ -30,6 +40,11 @@ public class PeriodoController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Atualia um periodo
+    /// </summary>
+    /// <param name="periodoAtualizarRequest"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<PeriodosResponse> Atualizar(PeriodosAtualizarRequest periodoAtualizarRequest)
     {
@@ -37,6 +52,11 @@ public class PeriodoController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Deleta um periodo
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpDelete("{id}")]
     public ActionResult Deletar(int id)
     {

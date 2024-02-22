@@ -1,6 +1,8 @@
+using System.Reflection;
 using System.Text.Json.Serialization;
 using FluentNHibernate.Cfg;
 using FluentNHibernate.Cfg.Db;
+using Microsoft.OpenApi.Models;
 using NHibernate;
 using SistemaFaculdade.Aplicacao.Alunos.Profiles;
 using SistemaFaculdade.Aplicacao.Alunos.Servicos;
@@ -17,7 +19,15 @@ builder.Services.AddControllers().AddJsonOptions(op =>
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "SistemaFaculdade.Api", Version = "v1" });
+
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+
+    c.IncludeXmlComments(xmlPath);
+});
 
 builder.Services.AddSingleton<ISessionFactory>(factory =>
 {
@@ -63,7 +73,11 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+  {
+      c.SwaggerEndpoint("../swagger/v1/swagger.json", "SistemaFaculdade.Api v1");
+      c.DisplayRequestDuration();
+  });
 }
 
 app.UseHttpsRedirection();

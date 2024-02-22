@@ -16,6 +16,11 @@ public class ProfessorMateriasController : ControllerBase
         this.professorMateriasAppServico = professorMateriasAppServico;
     }
 
+    /// <summary>
+    /// Insere um professor com materia
+    /// </summary>
+    /// <param name="professorMateriasInserir"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<ProfessorMateriasResponse> Inserir(ProfessorMateriasInserirRequest professorMateriasInserir)
     {
@@ -23,6 +28,11 @@ public class ProfessorMateriasController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera um professor com materia por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<ProfessorMateriasResponse> Recuperar(int id)
     {
@@ -30,6 +40,11 @@ public class ProfessorMateriasController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Atualiza um professor com materia
+    /// </summary>
+    /// <param name="professorMateriasAtualizar"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<ProfessorMateriasResponse> Alterar(ProfessorMateriasAtualizarRequest professorMateriasAtualizar)
     {
@@ -37,6 +52,11 @@ public class ProfessorMateriasController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Deleta um professor com materia
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpDelete("{id}")]
     public ActionResult Deletar(int id)
     {

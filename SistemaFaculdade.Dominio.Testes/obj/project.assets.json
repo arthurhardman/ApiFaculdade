@@ -6202,11 +6202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio.Testes\\SistemaFaculdade.Dominio.Testes.csproj",
+      "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio.Testes\\SistemaFaculdade.Dominio.Testes.csproj",
       "projectName": "SistemaFaculdade.Dominio.Testes",
-      "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio.Testes\\SistemaFaculdade.Dominio.Testes.csproj",
+      "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio.Testes\\SistemaFaculdade.Dominio.Testes.csproj",
       "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio.Testes\\obj\\",
+      "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio.Testes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6224,8 +6224,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
-              "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
+            "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+              "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
             }
           }
         }

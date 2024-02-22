@@ -15,6 +15,11 @@ public class MateriaController : ControllerBase
         this.materiaAppServico = materiaAppServico;
     }
 
+    /// <summary>
+    /// Insere uma materia
+    /// </summary>
+    /// <param name="materiaInserirRequest"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<MateriaResponse> Inserir([FromBody] MateriaInserirRequest materiaInserirRequest)
     {
@@ -22,6 +27,11 @@ public class MateriaController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera uma materia por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<MateriaResponse> Recuperar(int id)
     {
@@ -29,6 +39,11 @@ public class MateriaController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Altera uma materia
+    /// </summary>
+    /// <param name="materiaAlterarRequest"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<MateriaResponse> Alterar(MateriaAlterarRequest materiaAlterarRequest)
     {
@@ -36,6 +51,11 @@ public class MateriaController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera uma materia por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpDelete("{id}")]
     public ActionResult Deletar(int id)
     {
@@ -44,6 +64,11 @@ public class MateriaController : ControllerBase
         return Ok();
     }
 
+    /// <summary>
+    /// Recupera uma lista de materias
+    /// </summary>
+    /// <param name="materiaListarRequest"></param>
+    /// <returns></returns>
     [HttpGet]
     public ActionResult<IList<MateriaResponse>> Listar([FromQuery] MateriaListarRequest materiaListarRequest)
     {

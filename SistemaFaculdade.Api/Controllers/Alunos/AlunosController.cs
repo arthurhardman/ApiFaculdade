@@ -16,6 +16,11 @@ public class AlunosController : ControllerBase
         this.alunoAppServico = alunoAppServico;
     }
 
+    /// <summary>
+    /// Insere um Aluno
+    /// </summary>
+    /// <param name="alunoInserirRequest"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<AlunoResponse> Inserir(AlunoInserirRequest alunoInserirRequest)
     {
@@ -23,6 +28,11 @@ public class AlunosController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera um Aluno por ID
+    /// </summary>
+    /// <param name="matricula"></param>
+    /// <returns></returns>
     [HttpGet("{matricula}")]
     public ActionResult<AlunoResponse> Recuperar(int matricula)
     {
@@ -30,6 +40,11 @@ public class AlunosController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Atualiza um Aluno
+    /// </summary>
+    /// <param name="alunoAlterarRequest"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<AlunoResponse> Alterar(AlunoAlterarRequest alunoAlterarRequest)
     {
@@ -37,6 +52,11 @@ public class AlunosController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Deleta um Aluno
+    /// </summary>
+    /// <param name="matricula"></param>
+    /// <returns></returns>
     [HttpDelete("{matricula}")]
     public ActionResult Deletar(int matricula)
     {
@@ -44,6 +64,11 @@ public class AlunosController : ControllerBase
         return Ok();
     }
 
+    /// <summary>
+    /// Recupera uma listagem de alunos
+    /// </summary>
+    /// <param name="alunoListarRequest"></param>
+    /// <returns></returns>
     [HttpGet]
     public ActionResult<IList<AlunoResponse>> Listar([FromQuery] AlunoListarRequest alunoListarRequest)
     {

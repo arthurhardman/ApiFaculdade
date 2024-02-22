@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hbV9xBLkK44D+Y87yDG5Qhi+7SpFFarpDuE9NUdANWjIHRGmNaBcJ+VFRMS3ic/OU7Zx0lN1vqCIeflj5wiurA==",
+  "dgSpecHash": "1jAy6nIBcNjvNrdNrkC29WI6CmwS9IRtbaHrYmBbxQDPUa7dcvCdWoXDXURSoSnjRN1EzhbPyNoaBfSiQV/fFw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade - Github\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj",
+  "projectFilePath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Api\\SistemaFaculdade.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthur.paula\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\arthur.paula\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",

@@ -16,6 +16,11 @@ namespace SistemaFaculdade.Api.Controllers.AlunosMaterias
             this.alunoMateriaAppServico = alunoMateriaAppServico;
         }
 
+        /// <summary>
+        /// Insere um Aluno com Materia
+        /// </summary>
+        /// <param name="alunoMateriaInserir"></param>
+        /// <returns></returns>
         [HttpPost]
         public ActionResult<AlunoMateriaResponse> Inserir(AlunoMateriaInserirRequest alunoMateriaInserir)
         {
@@ -23,6 +28,11 @@ namespace SistemaFaculdade.Api.Controllers.AlunosMaterias
             return Ok(response);
         }
 
+        /// <summary>
+        /// Recupera um Aluno com Materia por ID
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         public ActionResult<AlunoMateriaResponse> Recuperar(int id)
         {
@@ -30,6 +40,11 @@ namespace SistemaFaculdade.Api.Controllers.AlunosMaterias
             return Ok(response);
         }
 
+        /// <summary>
+        /// Altera um Aluno com Materia
+        /// </summary>
+        /// <param name="alunoMateriaAtualizar"></param>
+        /// <returns></returns>
         [HttpPut]
         public ActionResult<AlunoMateriaResponse> Alterar(AlunoMateriaAtualizarRequest alunoMateriaAtualizar)
         {
@@ -37,6 +52,11 @@ namespace SistemaFaculdade.Api.Controllers.AlunosMaterias
             return Ok(response);
         }
 
+        /// <summary>
+        /// Deleta um Aluno com Materia
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpDelete("{id}")]
         public ActionResult Deletar(int id)
         {

@@ -16,6 +16,11 @@ public class UsuarioController : ControllerBase
         this.usuarioAppServico = usuarioAppServico;
     }
 
+    /// <summary>
+    /// Recupera um usuario por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<UsuarioResponse> Recuperar(int id)
     {
@@ -23,6 +28,11 @@ public class UsuarioController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Atualiza um usuario
+    /// </summary>
+    /// <param name="request"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<UsuarioResponse> Atualizar([FromBody] UsuarioAtualizarRequest request)
     {
@@ -30,6 +40,11 @@ public class UsuarioController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Insere um usuario
+    /// </summary>
+    /// <param name="request"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<UsuarioResponse> Inserir([FromBody] UsuarioInserirRequest request)
     {

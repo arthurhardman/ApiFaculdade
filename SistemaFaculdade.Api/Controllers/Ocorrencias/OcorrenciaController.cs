@@ -16,6 +16,11 @@ public class OcorrenciaController : ControllerBase
         this.ocorrenciaAppServico = ocorrenciaAppServico;
     }
 
+    /// <summary>
+    /// Insere uma ocorrencia
+    /// </summary>
+    /// <param name="ocorrenciaInserirRequest"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<OcorrenciaResponse> Inserir([FromBody] OcorrenciaInserirRequest ocorrenciaInserirRequest)
     {
@@ -23,6 +28,11 @@ public class OcorrenciaController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera uma ocorrencia por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<OcorrenciaResponse> Recuperar(int id)
     {
@@ -30,6 +40,11 @@ public class OcorrenciaController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Altera uma ocorrencia
+    /// </summary>
+    /// <param name="ocorrenciaAlterarRequest"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<OcorrenciaResponse> Alterar(OcorrenciaAlterarRequest ocorrenciaAlterarRequest)
     {
@@ -37,6 +52,12 @@ public class OcorrenciaController : ControllerBase
         return Ok(response);
     }
 
+
+    /// <summary>
+    /// Deleta uma ocorrencia
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpDelete("{id}")]
     public ActionResult Deletar(int id)
     {

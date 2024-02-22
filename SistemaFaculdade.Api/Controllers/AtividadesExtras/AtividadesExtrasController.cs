@@ -15,6 +15,11 @@ public class AtividadesExtrasController : ControllerBase
         this.atividadeExtraAppServico = atividadeExtraAppServico;
     }
 
+    /// <summary>
+    /// Insere uma atividade extra
+    /// </summary>
+    /// <param name="atividadeExtraInserirRequest"></param>
+    /// <returns></returns>
     [HttpPost]
     public ActionResult<AtividadeExtraResponse> Inserir([FromBody] AtividadeExtraInserirRequest atividadeExtraInserirRequest)
     {
@@ -22,6 +27,11 @@ public class AtividadesExtrasController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Recupera uma atividade extra por ID
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpGet("{id}")]
     public ActionResult<AtividadeExtraResponse> Recuperar(int id)
     {
@@ -29,6 +39,11 @@ public class AtividadesExtrasController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Atualiza uma atividade extra
+    /// </summary>
+    /// <param name="atividadeExtraAlterarRequest"></param>
+    /// <returns></returns>
     [HttpPut]
     public ActionResult<AtividadeExtraResponse> Alterar(AtividadeExtraAlterarRequest atividadeExtraAlterarRequest)
     {
@@ -36,6 +51,11 @@ public class AtividadesExtrasController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Deleta uma atividade extra
+    /// </summary>
+    /// <param name="id"></param>
+    /// <returns></returns>
     [HttpDelete("{id}")]
     public ActionResult Deletar(int id)
     {
@@ -44,6 +64,11 @@ public class AtividadesExtrasController : ControllerBase
         return Ok();
     }
 
+    /// <summary>
+    /// Lista as atividades extras
+    /// </summary>
+    /// <param name="atividadeExtraListarRequest"></param>
+    /// <returns></returns>
     [HttpGet]
     public ActionResult<IList<AtividadeExtraResponse>> Listar([FromQuery] AtividadeExtraListarRequest atividadeExtraListarRequest)
     {

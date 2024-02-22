@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SistemaFaculdade.Api</name>
+    </assembly>
+    <members>
+        <member name="M:SistemaFaculdade.Api.Controllers.AlunosMaterias.AlunoMateriaController.Inserir(SistemaFaculdade.DataTransfer.AlunosMaterias.Request.AlunoMateriaInserirRequest)">
+            <summary>
+            Insere um Aluno com Materia
+            </summary>
+            <param name="alunoMateriaInserir"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AlunosMaterias.AlunoMateriaController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um Aluno com Materia por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AlunosMaterias.AlunoMateriaController.Alterar(SistemaFaculdade.DataTransfer.AlunosMaterias.Request.AlunoMateriaAtualizarRequest)">
+            <summary>
+            Altera um Aluno com Materia
+            </summary>
+            <param name="alunoMateriaAtualizar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AlunosMaterias.AlunoMateriaController.Deletar(System.Int32)">
+            <summary>
+            Deleta um Aluno com Materia
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Alunos.AlunosController.Inserir(SistemaFaculdade.DataTransfer.Alunos.Requests.AlunoInserirRequest)">
+            <summary>
+            Insere um Aluno
+            </summary>
+            <param name="alunoInserirRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Alunos.AlunosController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um Aluno por ID
+            </summary>
+            <param name="matricula"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Alunos.AlunosController.Alterar(SistemaFaculdade.DataTransfer.Alunos.Requests.AlunoAlterarRequest)">
+            <summary>
+            Atualiza um Aluno
+            </summary>
+            <param name="alunoAlterarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Alunos.AlunosController.Deletar(System.Int32)">
+            <summary>
+            Deleta um Aluno
+            </summary>
+            <param name="matricula"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Alunos.AlunosController.Listar(SistemaFaculdade.DataTransfer.Alunos.Requests.AlunoListarRequest)">
+            <summary>
+            Recupera uma listagem de alunos
+            </summary>
+            <param name="alunoListarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AtividadesExtras.AtividadesExtrasController.Inserir(SistemaFaculdade.DataTransfer.AtividadesExtras.Requests.AtividadeExtraInserirRequest)">
+            <summary>
+            Insere uma atividade extra
+            </summary>
+            <param name="atividadeExtraInserirRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AtividadesExtras.AtividadesExtrasController.Recuperar(System.Int32)">
+            <summary>
+            Recupera uma atividade extra por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AtividadesExtras.AtividadesExtrasController.Alterar(SistemaFaculdade.DataTransfer.AtividadesExtras.Requests.AtividadeExtraAlterarRequest)">
+            <summary>
+            Atualiza uma atividade extra
+            </summary>
+            <param name="atividadeExtraAlterarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AtividadesExtras.AtividadesExtrasController.Deletar(System.Int32)">
+            <summary>
+            Deleta uma atividade extra
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.AtividadesExtras.AtividadesExtrasController.Listar(SistemaFaculdade.DataTransfer.AtividadesExtras.Requests.AtividadeExtraListarRequest)">
+            <summary>
+            Lista as atividades extras
+            </summary>
+            <param name="atividadeExtraListarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Materias.MateriaController.Inserir(SistemaFaculdade.DataTransfer.Materias.Requests.MateriaInserirRequest)">
+            <summary>
+            Insere uma materia
+            </summary>
+            <param name="materiaInserirRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Materias.MateriaController.Recuperar(System.Int32)">
+            <summary>
+            Recupera uma materia por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Materias.MateriaController.Alterar(SistemaFaculdade.DataTransfer.Materias.Requests.MateriaAlterarRequest)">
+            <summary>
+            Altera uma materia
+            </summary>
+            <param name="materiaAlterarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Materias.MateriaController.Deletar(System.Int32)">
+            <summary>
+            Recupera uma materia por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Materias.MateriaController.Listar(SistemaFaculdade.DataTransfer.Materias.Requests.MateriaListarRequest)">
+            <summary>
+            Recupera uma lista de materias
+            </summary>
+            <param name="materiaListarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Ocorrencias.OcorrenciaController.Inserir(SistemaFaculdade.DataTransfer.Ocorrencias.Requests.OcorrenciaInserirRequest)">
+            <summary>
+            Insere uma ocorrencia
+            </summary>
+            <param name="ocorrenciaInserirRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Ocorrencias.OcorrenciaController.Recuperar(System.Int32)">
+            <summary>
+            Recupera uma ocorrencia por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Ocorrencias.OcorrenciaController.Alterar(SistemaFaculdade.DataTransfer.Ocorrencias.Requests.OcorrenciaAlterarRequest)">
+            <summary>
+            Altera uma ocorrencia
+            </summary>
+            <param name="ocorrenciaAlterarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Ocorrencias.OcorrenciaController.Deletar(System.Int32)">
+            <summary>
+            Deleta uma ocorrencia
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.PeriodosMaterias.PeriodoMateriaController.Inserir(SistemaFaculdade.DataTransfer.PeriodosMaterias.Requests.PeriodosMateriasInserirRequest)">
+            <summary>
+            Insere um Periodo com Materia
+            </summary>
+            <param name="periodosMateriasInserir"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.PeriodosMaterias.PeriodoMateriaController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um Periodo com Materia por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.PeriodosMaterias.PeriodoMateriaController.Alterar(SistemaFaculdade.DataTransfer.PeriodosMaterias.Requests.PeriodosMateriasAtualizarRequest)">
+            <summary>
+            Atualiza um Periodo com Materia
+            </summary>
+            <param name="periodosMateriasAtualizar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.PeriodosMaterias.PeriodoMateriaController.Deletar(System.Int32)">
+            <summary>
+            Deleta um Periodo com Materia
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Periodos.PeriodoController.Inserir(SistemaFaculdade.DataTransfer.Periodos.Requests.PeriodosInserirRequest)">
+            <summary>
+            Insere um periodo
+            </summary>
+            <param name="periodoInserirRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Periodos.PeriodoController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um periodo por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Periodos.PeriodoController.Atualizar(SistemaFaculdade.DataTransfer.Periodos.Requests.PeriodosAtualizarRequest)">
+            <summary>
+            Atualia um periodo
+            </summary>
+            <param name="periodoAtualizarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Periodos.PeriodoController.Deletar(System.Int32)">
+            <summary>
+            Deleta um periodo
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.ProfessoresMaterias.ProfessorMateriasController.Inserir(SistemaFaculdade.DataTransfer.ProfessoresMaterias.Requests.ProfessorMateriasInserirRequest)">
+            <summary>
+            Insere um professor com materia
+            </summary>
+            <param name="professorMateriasInserir"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.ProfessoresMaterias.ProfessorMateriasController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um professor com materia por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.ProfessoresMaterias.ProfessorMateriasController.Alterar(SistemaFaculdade.DataTransfer.ProfessoresMaterias.Requests.ProfessorMateriasAtualizarRequest)">
+            <summary>
+            Atualiza um professor com materia
+            </summary>
+            <param name="professorMateriasAtualizar"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.ProfessoresMaterias.ProfessorMateriasController.Deletar(System.Int32)">
+            <summary>
+            Deleta um professor com materia
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Professores.ProfessorController.Inserir(SistemaFaculdade.DataTransfer.Professores.Requests.ProfessorInserirRequest)">
+            <summary>
+            Insere um professor
+            </summary>
+            <param name="professorInserirRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Professores.ProfessorController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um professor por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Professores.ProfessorController.Alterar(SistemaFaculdade.DataTransfer.Professores.Requests.ProfessorAlterarRequest)">
+            <summary>
+            Atualiza um professor
+            </summary>
+            <param name="professorAlterarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Professores.ProfessorController.Deletar(System.Int32)">
+            <summary>
+            Deleta um professor
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Professores.ProfessorController.Listar(SistemaFaculdade.DataTransfer.Professores.Requests.ProfessorListarRequest)">
+            <summary>
+            Recupera uma lista de professores
+            </summary>
+            <param name="professorListarRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Usuarios.UsuarioController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um usuario por ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Usuarios.UsuarioController.Atualizar(SistemaFaculdade.DataTransfer.Usuarios.Requests.UsuarioAtualizarRequest)">
+            <summary>
+            Atualiza um usuario
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SistemaFaculdade.Api.Controllers.Usuarios.UsuarioController.Inserir(SistemaFaculdade.DataTransfer.Usuarios.Requests.UsuarioInserirRequest)">
+            <summary>
+            Insere um usuario
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
