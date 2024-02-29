@@ -61,5 +61,17 @@ public class AlunosServicosTestes
             aluno.Should().Be(alunoValido);
         }
     }
+
+    public class DeletarMetodo : AlunosServicosTestes
+    {
+        [Theory]
+        [InlineData(null)]
+        public void QuandoAlunoInvalidoAoDeletar_Espero_Excecao(Aluno aluno)
+        {
+            alunoRepositorio.Remover(Arg.Any<Aluno>());
+            sut.Invoking(x => x.Excluir(aluno.Matricula)).Should().Throw<Exception>();
+
+        }
+    }
 }
 

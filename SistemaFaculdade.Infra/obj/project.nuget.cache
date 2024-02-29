@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/YHBZwMEIlrqA2R2s2jcQwhuUxibFL/zPsSIWcWKKvRi2QaD99CPE0rmVXefs1Rd7ruFjdh3MWbqPv2lvLe5Q==",
+  "dgSpecHash": "Qgls39SvJzRCItjql0urnzQfdWhK1ZoMsDFSoMlJXqMlTYav4vAWDfvlXfQdnfL84hpU4HmgfmBeYCL0dKJDmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
+  "projectFilePath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthur.paula\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\arthur.paula\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",

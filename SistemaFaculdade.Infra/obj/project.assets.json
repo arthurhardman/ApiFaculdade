@@ -6329,11 +6329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
+      "projectUniqueName": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
       "projectName": "SistemaFaculdade.Infra",
-      "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
+      "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\SistemaFaculdade.Infra.csproj",
       "packagesPath": "C:\\Users\\arthur.paula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\obj\\",
+      "outputPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6351,8 +6351,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
-              "projectPath": "C:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
+            "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj": {
+              "projectPath": "c:\\Users\\arthur.paula\\OneDrive - AUTOGLASS\\Documentos\\ApiFaculdade\\SistemaFaculdade.Dominio\\SistemaFaculdade.Dominio.csproj"
             }
           }
         }
